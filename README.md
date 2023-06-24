@@ -1,4 +1,4 @@
-### Hello , Eu sou Maicon..
+### Hello , Eu sou Maicon...
 
 
 - 🔭 Apaixonado por tecnologia

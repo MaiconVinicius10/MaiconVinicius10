@@ -3,6 +3,7 @@
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estuandante C# - HTML - CSS - JAVASCRIPT
+- -
   
 <div align="center">
   <a href="https://github.com/MaiconVinicius10">

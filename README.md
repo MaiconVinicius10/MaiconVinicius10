@@ -2,8 +2,8 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estuandante Kotlin - Java - Fluter - Android Studio
-- 🌱 Estuandante C# - HTML - CSS - JAVASCRIPT
+- 🌱 Estudante Kotlin - Java - Fluter - Android Studio
+- 🌱 Estudante C# - HTML - CSS - JAVASCRIPT
 - 
   
 <div align="center">

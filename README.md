@@ -2,8 +2,9 @@
 
 
 - 🔭 Apaixonado por tecnologia
+- 🌱 Estuandante Kotlin - Java - Fluter - Android Studio
 - 🌱 Estuandante C# - HTML - CSS - JAVASCRIPT
-- -
+- 
   
 <div align="center">
   <a href="https://github.com/MaiconVinicius10">

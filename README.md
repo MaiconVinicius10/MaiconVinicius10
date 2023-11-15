@@ -3,7 +3,7 @@
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante Kotlin - Java - Fluter - Android Studio
-- 🌱 Estudante C# - HTML - CSS - JAVASCRIPT
+- 🌱 Conhecimento C# - HTML - CSS - JAVASCRIPT
 - 
   
 <div align="center">

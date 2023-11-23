@@ -1,8 +1,8 @@
 ### Hello , Eu sou Maicon...
 
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Kotlin - Java - Fluter - Android Studio
+- 🔭 Desenvolver Mobile
+- 🌱 Estudante JAVA -Kotlin - Fluter - Android Studio
 - 🌱 Conhecimento C# - HTML - CSS - JAVASCRIPT
 - 
   

@@ -1,11 +1,9 @@
 ### Hello , I am Maicon Vini...
 
 
-- 🔭 Desenvolver:  C# it's life
-- 🌱 Estudante:  C# -Front e backend
-- 🌱 Conhecimento:  -HTML -CSS -JAVASCRIPT -JAVA -Kotlin - Fluter 
-- 
-  
+- 🔭 To develop:  C# it's life
+- 🌱 Student:  C# -Front e backend
+- 🌱 Knowledge:  -HTML -CSS -JAVASCRIPT -JAVA -Kotlin - Fluter 
 <div align="center">
   <a href="https://github.com/MaiconVinicius10">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MaiconVinicius10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

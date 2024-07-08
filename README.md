@@ -1,9 +1,9 @@
 ### Hello , I am Maicon Vini...
 
 
-- 🔭 Desenvolver Mobile
-- 🌱 Estudante JAVA -Kotlin - Fluter - Android Studio
-- 🌱 Conhecimento C# - HTML - CSS - JAVASCRIPT
+- 🔭 Desenvolver:  C# it's life
+- 🌱 Estudante:  C# -Front e backend
+- 🌱 Conhecimento:  -HTML -CSS -JAVASCRIPT -JAVA -Kotlin - Fluter 
 - 
   
 <div align="center">
